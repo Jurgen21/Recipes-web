@@ -1,0 +1,797 @@
+.big-image2 {
+    position: relative;
+    margin-left: 100px;
+    margin-top: 120px;
+    height: 550px;
+    width: 850px;
+    cursor: pointer;
+}
+
+.dig-in {
+    position: absolute;
+    height: 330px;
+    width: 460px;
+    background-color: white;
+    margin-top: -554px;
+    margin-left: 950px;
+    padding-top: 220px;
+    padding-left: 40px;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.risotto-recipies {
+    position: absolute;
+    width: 435px;
+    font-size: 30px;
+    font-weight: 500;
+    margin-top: -500px;
+    margin-left: 950px;
+    padding-top: 200px;
+    padding-left: 40px;
+    padding-right: 10px;
+    cursor: pointer;
+}
+
+.risotto-recipies:hover {
+    text-decoration: underline;
+    text-decoration-color: red;
+}
+
+
+.mid-img {
+    position: relative;
+    margin-top: 45px;
+    margin-left: 100px;
+    width: 660px;
+    height: 480px;
+    cursor: pointer;
+}
+
+.food-network {
+    position: absolute;
+    margin-left: 100px;
+    margin-top: -5px;
+    height: 80px;
+    width: 645px;
+    background-color: white;
+    padding-top: 20px;
+    padding-left: 15px;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.the-best {
+    position: absolute;
+    margin-left: 100px;
+    padding-top: 45px;
+    padding-left: 15px;
+    font-size: 20px;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.mid-img2 {
+    position: relative;
+    margin-top: 45px;
+    margin-left: 25px;
+    width: 660px;
+    height: 480px;
+    cursor: pointer;
+}
+
+.something-for {
+    position: absolute;
+    margin-left: 789px;
+    margin-top: -5px;
+    height: 80px;
+    width: 645px;
+    background-color: white;
+    padding-top: 20px;
+    padding-left: 15px;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.oprah-favourite {
+    position: absolute;
+    margin-left: 779px;
+    padding-top: 45px;
+    padding-left: 15px;
+    font-size: 20px;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.the-best:hover,
+.oprah-favourite:hover {
+    text-decoration: underline;
+    text-decoration-color: red;
+}
+
+.big-img3 {
+    position: relative;
+    margin-left: 100px;
+    margin-top: 140px;
+    width: 850px;
+    height: 550px;
+    cursor: pointer;
+}
+
+.our-best {
+    position: absolute;
+    height: 331px;
+    width: 480px;
+    background-color: white;
+    margin-top: -555px;
+    margin-left: 926px;
+    padding-top: 220px;
+    padding-left: 40px;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.impossibly-pillowy {
+    position: absolute;
+    width: 435px;
+    font-size: 30px;
+    font-weight: 500;
+    margin-top: -500px;
+    margin-left: 926px;
+    padding-top: 200px;
+    padding-left: 40px;
+    padding-right: 10px;
+    cursor: pointer;
+}
+
+.impossibly-pillowy:hover {
+    text-decoration: underline;
+    text-decoration-color: red;
+}
+
+.half-img {
+    position: relative;
+    margin-top: 45px;
+    margin-left: 100px;
+    width: 660px;
+    height: 480px;
+    cursor: pointer;
+}
+
+.thanks-giving {    
+    position: absolute;
+    margin-left: 100px;
+    margin-top: -5px;
+    height: 80px;
+    width: 645px;
+    background-color: white;
+    padding-top: 20px;
+    padding-left: 15px;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.common-mashed {
+    position: absolute;
+    margin-left: 100px;
+    padding-top: 45px;
+    padding-left: 15px;
+    font-size: 20px;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.half-img2 {
+    position: relative;
+    margin-top: 45px;
+    margin-left: 25px;
+    width: 660px;
+    height: 480px;
+    cursor: pointer;
+}
+
+.to-know {    
+    position: absolute;
+    margin-left: 789px;
+    margin-top: -5px;
+    height: 80px;
+    width: 645px;
+    background-color: white;
+    padding-top: 20px;
+    padding-left: 15px;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.for-extra {
+    position: absolute;
+    margin-left: 789px;
+    padding-top: 45px;
+    padding-left: 15px;
+    font-size: 20px;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.common-mashed:hover,
+.for-extra:hover {
+    text-decoration: underline;
+    text-decoration-color: red;
+}
+
+.new-div {
+    position: relative;
+    margin-left: 100px;
+    margin-top: 140px;
+    font-weight: 700;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 35px;
+}
+
+.first-txt {
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 40px;
+    height: 272px;
+    width: 700px;
+    background-color: white;
+    padding-left: 30px;
+    padding-top: 40px;
+    font-weight: 500;
+    font-size: 17px;
+}
+
+.fruit-baskets {
+    position: absolute;
+    margin-left: 100px;
+    width: 700px;
+    margin-top: 110px;
+    padding-left: 30px;
+    padding-right: 70px;
+    font-weight: 500;
+    font-size: 40px;
+    cursor: pointer;
+}
+
+.samantha-lande {
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 220px;
+    padding-left: 30px;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.sharing-modern {
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 260px;
+    padding-left: 30px;
+}
+
+.line-img {
+    position: absolute;
+    height: 312px;
+    width: 610px;
+    margin-top: 40px;
+    margin-left: 830px;
+    cursor: pointer;
+}
+
+.first-txt1 {
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 400px;
+    height: 272px;
+    width: 700px;
+    background-color: white;
+    padding-left: 30px;
+    padding-top: 40px;
+    font-weight: 500;
+    font-size: 17px;
+}
+
+.black-friday {
+    position: absolute;
+    margin-left: 100px;
+    width: 700px;
+    margin-top: 470px;
+    padding-left: 30px;
+    padding-right: 70px;
+    font-weight: 500;
+    font-size: 40px;
+    cursor: pointer;
+}
+
+.casey-clark1 {
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 575px;
+    padding-left: 30px;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.air-fryers {
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 620px;
+    padding-left: 30px;
+}
+
+.line-img2 {
+    position: absolute;
+    height: 312px;
+    width: 610px;
+    margin-top: 400px;
+    margin-left: 830px;
+    cursor: pointer;
+}
+
+.best-gifts {
+    position: absolute;
+    margin-left: 100px;
+    width: 700px;
+    height: 272px;
+    background-color: white;
+    margin-top: 760px;
+    padding-left: 30px;
+    padding-top: 30px;
+    font-weight: 500;
+    font-size: 40px;
+    cursor: pointer;
+}
+
+.john-debary {
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 900px;
+    padding-left: 30px;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.from-essential {
+    position: absolute;
+    width: 700px;
+    margin-left: 100px;
+    margin-top: 930px;
+    padding-left: 30px;
+}
+
+.line-img3 {
+    position: absolute;
+    height: 302px;
+    width: 610px;
+    margin-top: 760px;
+    margin-left: 830px;
+    cursor: pointer;
+}
+
+.all-the {
+    position: absolute;
+    margin-left: 100px;
+    width: 700px;
+    height: 272px;
+    background-color: white;
+    margin-top: 1110px;
+    padding-left: 30px;
+    padding-top: 30px;
+    font-weight: 500;
+    font-size: 40px;
+    cursor: pointer;
+}
+
+.julia-morlino {
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 1250px;
+    padding-left: 30px;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.deck-your {
+    position: absolute;
+    width: 700px;
+    margin-left: 100px;
+    margin-top: 1280px;
+    padding-left: 30px;
+}
+
+.line-img4 {
+    position: absolute;
+    height: 302px;
+    width: 610px;
+    margin-top: 1110px;
+    margin-left: 830px;
+    cursor: pointer;
+}
+
+.first-ever {
+    position: absolute;
+    margin-left: 100px;
+    width: 700px;
+    height: 272px;
+    background-color: white;
+    margin-top: 1460px;
+    padding-left: 30px;
+    padding-top: 30px;
+    font-weight: 500;
+    font-size: 40px;
+    cursor: pointer;
+}
+
+.adam-campbell {
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 1600px;
+    padding-left: 30px;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.chain-hosting {
+    position: absolute;
+    width: 700px;
+    margin-left: 100px;
+    margin-top: 1635px;
+    padding-left: 30px;
+}
+
+.line-img5 {
+    position: absolute;
+    height: 302px;
+    width: 610px;
+    margin-top: 1460px;
+    margin-left: 830px;
+    cursor: pointer;
+}
+
+.best-elf {    
+    position: absolute;
+    margin-left: 100px;
+    width: 700px;
+    height: 272px;
+    background-color: white;
+    margin-top: 1810px;
+    padding-left: 30px;
+    padding-top: 30px;
+    font-weight: 500;
+    font-size: 40px;
+    cursor: pointer;
+}
+
+.casey-clark {
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 1950px;
+    padding-left: 30px;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.iconic-film {
+    position: absolute;
+    width: 700px;
+    margin-left: 100px;
+    margin-top: 1985px;
+    padding-left: 30px;
+}
+
+.line-img6 {
+    position: absolute;
+    height: 302px;
+    width: 610px;
+    margin-top: 1810px;
+    margin-left: 830px;
+    cursor: pointer;
+}
+
+.does-diamond {
+    position: absolute;
+    margin-left: 100px;
+    width: 700px;
+    height: 272px;
+    background-color: white;
+    margin-top: 2150px;
+    padding-left: 30px;
+    padding-top: 30px;
+    font-weight: 500;
+    font-size: 40px;
+    cursor: pointer;
+}
+
+.amy-reiter {
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 2300px;
+    padding-left: 30px;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.we-tested {
+    position: absolute;
+    width: 700px;
+    margin-left: 100px;
+    margin-top: 2335px;
+    padding-left: 30px;
+}
+
+.line-img7 {
+    position: absolute;
+    height: 302px;
+    width: 610px;
+    margin-top: 2150px;
+    margin-left: 830px;
+    cursor: pointer;
+}
+
+.food-network1{
+    position: absolute;
+    margin-left: 100px;
+    width: 700px;
+    height: 272px;
+    background-color: white;
+    margin-top: 2500px;
+    padding-left: 30px;
+    padding-top: 30px;
+    font-weight: 500;
+    font-size: 40px;
+    cursor: pointer;
+}
+
+.get-the{
+    position: absolute;
+    width: 700px;
+    margin-left: 100px;
+    margin-top: 2650px;
+    padding-left: 30px;
+}
+
+.line-img8{
+    position: absolute;
+    height: 302px;
+    width: 610px;
+    margin-top: 2500px;
+    margin-left: 830px;
+    cursor: pointer;
+}
+
+.french-recipe{
+    position: absolute;
+    margin-left: 100px;
+    width: 700px;
+    height: 272px;
+    background-color: white;
+    margin-top: 2850px;
+    padding-left: 30px;
+    padding-top: 30px;
+    font-weight: 500;
+    font-size: 40px;
+    cursor: pointer;
+}
+
+.emily-saladino{
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 2980px;
+    padding-left: 30px;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.second-season{
+    position: absolute;
+    width: 700px;
+    margin-left: 100px;
+    margin-top: 3010px;
+    padding-left: 30px;
+}
+
+.line-img9{
+    position: absolute;
+    height: 302px;
+    width: 610px;
+    margin-top: 2850px;
+    margin-left: 830px;
+    cursor: pointer;
+}
+
+.i-tried{   
+    position: absolute;
+    margin-left: 100px;
+    width: 700px;
+    height: 272px;
+    background-color: white;
+    margin-top: 3200px;
+    padding-left: 30px;
+    padding-top: 30px;
+    font-weight: 500;
+    font-size: 40px;
+    cursor: pointer;}
+
+.amy-reiter1{
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 3340px;
+    padding-left: 30px;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.nfl-star{
+    position: absolute;
+    width: 700px;
+    margin-left: 100px;
+    margin-top: 3370px;
+    padding-left: 30px;
+}
+
+.line-img10 {
+    position: absolute;
+    height: 302px;
+    width: 610px;
+    margin-top: 3200px;
+    margin-left: 830px;
+    cursor: pointer;
+}
+
+.fruit-baskets:hover,
+.black-friday:hover,
+.best-gifts:hover,
+.all-the:hover,
+.first-ever:hover,
+.best-elf:hover,
+.does-diamond:hover,
+.food-network1:hover,
+.french-recipe:hover,
+.i-tried:hover{
+    text-decoration: underline;
+    text-decoration-color: red;
+}
+
+.new-sector{
+    position: relative;
+    margin-top: 3550px;
+}
+
+.video-img {
+    position: absolute;
+    margin-left: 100px;
+    width: 1050px;
+    height: 550px;
+    cursor: pointer;
+}
+
+.watch-button {
+    position: absolute;
+    margin-left: 565px;
+    margin-top: 250px;
+    width: 120px;
+    height: 50px;
+    background-color: black;
+    border-radius: 25px;
+    transition: opacity 0.15s;
+    cursor: pointer;
+}
+
+.watch-button:hover {
+    opacity: 0.3;
+}
+
+.watch-txt {
+    position: absolute;
+    margin-left: 588px;
+    margin-top: 265px;
+    font-weight: 700;
+    font-size: 20px;
+    color: white;
+    cursor: pointer;
+}
+
+.watch-txt:hover {
+    opacity: 0.3;
+}
+
+.video-img1 {
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 1185px;
+    width: 250px;
+    height: 145px;
+    cursor: pointer;
+}
+
+.first-up {
+    position: absolute;
+    margin-left: 1185px;
+    margin-top: 10px;
+    background-color: red;
+    color: white;
+    width: 90px;
+    height: 30px;
+    font-weight: 600;
+    padding-left: 20px;
+    padding-top: 10px;
+    cursor: pointer;
+}
+
+.video-time {
+    position: absolute;
+    margin-left: 1375px;
+    margin-top: 120px;
+    background-color: black;
+    color: white;
+    height: 25px;
+    width: 50px;
+    font-weight: 550;
+    padding-left: 10px;
+    padding-top: 10px;
+    cursor: pointer;
+}
+
+.turkey-tail {
+    position: absolute;
+    margin-left: 1185px;
+    margin-top: 160px;
+    font-size: 20px;
+    font-weight: 550;
+    cursor: pointer;
+}
+
+.video-img2 {
+    position: absolute;
+    margin-left: 1185px;
+    margin-top: 195px;
+    width: 250px;
+    height: 145px;
+    cursor: pointer;
+}
+
+.video-time2 {
+    position: absolute;
+    margin-left: 1375px;
+    margin-top: 305px;
+    background-color: black;
+    color: white;
+    height: 25px;
+    width: 50px;
+    font-weight: 550;
+    padding-left: 10px;
+    padding-top: 10px;
+    cursor: pointer;
+}
+
+.aligot-style {
+    position: absolute;
+    margin-left: 1185px;
+    margin-top: 355px;
+    font-size: 20px;
+    font-weight: 550;
+    cursor: pointer;
+}
+
+.video-img3 {
+    position: absolute;
+    margin-left: 1185px;
+    margin-top: 390px;
+    width: 250px;
+    height: 145px;
+    cursor: pointer;
+}
+
+.video-time3 {
+    position: absolute;
+    margin-left: 1375px;
+    margin-top: 500px;
+    background-color: black;
+    color: white;
+    height: 25px;
+    width: 50px;
+    font-weight: 550;
+    padding-left: 10px;
+    padding-top: 10px;
+    cursor: pointer;
+}

@@ -1,0 +1,186 @@
+.footer-end {
+    margin-top: 1220px;
+    margin-left: -100px;
+    position: absolute;
+    background-color: #292929;
+    height: 175px;
+    width: 1520px;
+}
+
+.site-map{
+    position: absolute;
+    color: white;
+    width: 1350px;
+    margin-top: 40px;
+    cursor: pointer;
+    margin-left: 100px;
+    font-size: 14px;
+}
+
+.visitor-agreement {
+    position: absolute;
+    color: white;
+    margin-top: 40px;
+    cursor: pointer;
+    margin-left: 180px;
+    font-size: 14px;
+}
+
+.ad-choices {
+    position: absolute;
+    color: white;
+    margin-top: 40px;
+    cursor: pointer;
+    margin-left: 340px;
+    font-size: 14px;
+}
+
+.privacy-notice {
+    position: absolute;
+    color: white;
+    margin-top: 40px;
+    cursor: pointer;
+    margin-left: 440px;
+    font-size: 14px;
+}
+
+.a-bout {
+    position: absolute;
+    color: white;
+    margin-top: 40px;
+    cursor: pointer;
+    margin-left: 560px;
+    font-size: 14px;
+}
+
+.news-room {
+    position: absolute;
+    color: white;
+    margin-top: 40px;
+    cursor: pointer;
+    margin-left: 630px;
+    font-size: 14px;
+}
+
+.adver-tise {
+    position: absolute;
+    color: white;
+    margin-top: 40px;
+    cursor: pointer;
+    margin-left: 730px;
+    font-size: 14px;
+}
+
+.he-lp {
+    position: absolute;
+    color: white;
+    margin-top: 40px;
+    cursor: pointer;
+    margin-left: 820px;
+    font-size: 14px;
+}
+
+.tv-ratings {
+    position: absolute;
+    color: white;
+    margin-top: 40px;
+    cursor: pointer;
+    margin-left: 880px;
+    font-size: 14px;
+}
+
+.online-closed {
+    position: absolute;
+    color: white;
+    margin-top: 40px;
+    cursor: pointer;
+    margin-left: 980px;
+    font-size: 14px;
+}
+
+.california-privacy {
+    position: absolute;
+    color: white;
+    margin-top: 40px;
+    cursor: pointer;
+    margin-left: 1170px;
+    font-size: 14px;
+}
+
+.accessibility-text {
+    position: absolute;
+    color: white;
+    margin-top: 40px;
+    cursor: pointer;
+    margin-left: 1370px;
+    font-size: 14px;
+}
+
+.news-letter {
+    position: absolute;
+    color: white;
+    margin-top: 65px;
+    cursor: pointer;
+    margin-left: 500px;
+    font-size: 14px;
+}
+
+.discovery-inc {
+    position: absolute;
+    color: white;
+    margin-top: 65px;
+    cursor: pointer;
+    margin-left: 600px;
+    font-size: 14px;
+}
+
+.not-sell {
+    position: absolute;
+    color: white;
+    margin-top: 65px;
+    cursor: pointer;
+    margin-left: 710px;
+    font-size: 14px;
+}
+
+.site-map:hover,
+.visitor-agreement:hover,
+.ad-choices:hover,
+.privacy-notice:hover,
+.a-bout:hover,
+.news-room:hover,
+.adver-tise:hover,
+.he-lp:hover,
+.tv-ratings:hover,
+.online-closed:hover,
+.california-privacy:hover,
+.accessibility-text:hover,
+.news-letter:hover,
+.discovery-inc:hover,
+.not-sell:hover{
+    text-decoration: underline;
+}
+
+.international-editions {
+    position: absolute;
+    color: #ababaa;
+    margin-top: 95px;
+    margin-left: 400px;
+    font-size: 12px;
+}
+
+.the-discovery {
+    position: absolute;
+    color: #ababaa;
+    margin-top: 95px;
+    margin-left: 550px;
+    font-size: 12px;
+}
+
+.warner-bros {
+    position: absolute;
+    color: #ababaa;
+    margin-top: 95px;
+    margin-left: 770px;
+    font-size: 12px;
+}

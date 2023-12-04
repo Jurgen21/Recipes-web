@@ -1,0 +1,412 @@
+.on-tv {
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 600px;
+    font-size: 45px;
+    font-weight: 450;
+}
+
+.tv-img {
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 700px;
+    width: 900px;
+    height: 550px;
+    cursor: pointer;
+}
+
+.the-elf {
+    position: absolute;
+    margin-top: 700px;
+    margin-left: 1000px;
+    background-color: white;
+    width: 410px;
+    height: 370px;
+    font-weight: 500;
+    padding-top: 180px;
+    padding-left: 40px;
+}
+
+.tour-the {
+    position: absolute;
+    margin-top: 920px;
+    margin-left: 1040px;
+    width: 410px;
+    font-weight: 500;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.sun-day {
+    position: absolute;
+    margin-top: 1180px;
+    margin-left: 1040px;
+    width: 410px;
+    font-weight: 450;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.tour-the:hover,
+.sun-day:hover{
+    text-decoration: underline;
+    text-decoration-color: red;
+}
+
+.row-images {
+    width: 1350px;
+    height: 385px;
+    margin-left: 100px;
+    position: absolute;
+    margin-top: 1300px;
+}
+
+.img-row {
+    margin-left: 0px;
+    width: 300px;
+    cursor: pointer;
+}
+
+.guy-grocery {
+    position: absolute;
+    margin-left: 0px;
+    background-color: white;
+    margin-top: -4px;
+    height: 140px;
+    width: 280px;
+    padding-left: 20px;
+    padding-top: 20px;
+    font-weight: 450;
+}
+
+.flavor-town {
+    position: absolute;
+    margin-left: 0px;
+    width: 230px;
+    padding-left: 20px;
+    padding-top: 45px;
+    font-size: 20px;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.wedn-sday {
+    margin-left: 0px;
+    position: absolute;
+    padding-left: 20px;
+    padding-top: 120px;
+    font-size: 15px;
+    font-weight: 350;
+    cursor: pointer;
+}
+
+.img-row2 {
+    position: absolute;
+    width: 300px;
+    margin-left: 355px;
+    margin-top: -229.5px;
+    cursor: pointer;
+}
+
+.christ-mas {
+    position: absolute;
+    margin-left: 355px;
+    background-color: white;
+    margin-top: -4px;
+    height: 140px;
+    width: 280px;
+    padding-left: 20px;
+    padding-top: 20px;
+    font-weight: 450;
+}
+
+.how-the {
+    position: absolute;
+    margin-left: 355px;
+    width: 230px;
+    padding-left: 20px;
+    padding-top: 45px;
+    font-size: 20px;
+    font-weight: 550;
+    cursor: pointer;
+}
+
+.to-night {
+    margin-left: 355px;
+    position: absolute;
+    padding-left: 20px;
+    padding-top: 120px;
+    font-size: 15px;
+    font-weight: 350;
+    cursor: pointer;
+}
+
+.img-row3 {
+    position: absolute;
+    width: 300px;
+    margin-left: 700px;
+    margin-top: -229.5px;
+    cursor: pointer;
+}
+
+.holiday-wars {
+    position: absolute;
+    margin-left: 700px;
+    background-color: white;
+    margin-top: -4px;
+    height: 140px;
+    width: 280px;
+    padding-left: 20px;
+    padding-top: 20px;
+    font-weight: 450;   
+}
+
+.cookie-makers {
+    position: absolute;
+    margin-left: 685px;
+    width: 230px;
+    padding-left: 35px;
+    padding-top: 45px;
+    font-size: 20px;
+    font-weight: 550;
+    cursor: pointer;
+}
+
+.sun-day1 {
+    margin-left: 685px;
+    position: absolute;
+    padding-left: 35px;
+    padding-top: 120px;
+    font-size: 15px;
+    font-weight: 350;
+    cursor: pointer;
+}
+
+.on-now {
+    position: absolute;
+    margin-left: 1050px;
+    background-color: white;
+    margin-top: -229.5px;
+    height: 365.5px;
+    width: 275px;
+    padding-left: 25px;
+    padding-top: 20px;
+    font-weight: 450; 
+    font-size:  13px;
+}
+
+.holiday-wars1 {
+    position: absolute;
+    height: 350px;
+    width: 275px;
+    margin-left: 1050px;
+    margin-top: -185px;
+    padding-left: 25px;
+    font-size: 14px;
+    font-weight: 450;
+    cursor: pointer;
+}
+
+.time-of {
+    position: absolute;
+    height: 350px;
+    width: 275px;
+    margin-left: 1050px;
+    margin-top: -160px;
+    padding-left: 25px;
+    font-size: 14px;
+    font-weight: 350;
+    cursor: pointer;
+}
+
+.watch-tv {
+    position: absolute;
+    margin-left: 1075px;
+    margin-top: -120px;
+    color: white;
+    background-color: rgb(49, 48, 48);
+    width: 150px;
+    height: 40px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    font-weight: 550;
+    font-size: 15px;
+}
+
+.watch-tv:hover {
+    background-color: red;
+}
+
+.up-next {
+    position: absolute;
+    height: 350px;
+    width: 275px;
+    margin-left: 1050px;
+    margin-top: -70px;
+    padding-left: 25px;
+    font-size: 14px;
+    font-weight: 450;
+    cursor: pointer;
+}
+
+.holiday-wars2 {
+    position: absolute;
+    height: 350px;
+    width: 275px;
+    margin-left: 1050px;
+    margin-top: -40px;
+    padding-left: 25px;
+    font-size: 14px;
+    font-weight: 450;
+    cursor: pointer;
+}
+
+.time-of1 {
+    position: absolute;
+    height: 350px;
+    width: 275px;
+    margin-left: 1050px;
+    margin-top: -10px;
+    padding-left: 25px;
+    font-size: 14px;
+    font-weight: 350;
+    cursor: pointer;
+}
+
+.on-tonight1 {
+    position: absolute;
+    height: 350px;
+    width: 275px;
+    margin-left: 1050px;
+    margin-top: 15px;
+    padding-left: 25px;
+    font-size: 14px;
+    font-weight: 450;
+    cursor: pointer;
+}
+
+.christ-mas1 {
+    position: absolute;
+    height: 350px;
+    width: 275px;
+    margin-left: 1050px;
+    margin-top: 40px;
+    padding-left: 25px;
+    font-size: 19px;
+    font-weight: 450;
+    cursor: pointer;
+}
+
+.time-of2 {
+    position: absolute;
+    height: 350px;
+    width: 275px;
+    margin-left: 1050px;
+    margin-top: 75px;
+    padding-left: 25px;
+    font-size: 14px;
+    font-weight: 350;
+    cursor: pointer;
+}
+
+.see-full {
+    position: absolute;
+    height: 350px;
+    width: 275px;
+    margin-left: 1050px;
+    margin-top: 120px;
+    padding-left: 25px;
+    font-size: 17px;
+    font-weight: 450;
+    cursor: pointer;
+}
+
+.flavor-town:hover,
+.wedn-sday:hover,
+.how-the:hover,
+.to-night:hover,
+.cookie-makers:hover,
+.sun-day1:hover,
+.on-now:hover,
+.holiday-wars1:hover,
+.up-next:hover,
+.holiday-wars2:hover,
+.on-tonight1:hover,
+.christ-mas1:hover,
+.see-full:hover {
+    text-decoration: underline;
+    text-decoration-color: red;
+    text-decoration-thickness: 2px;
+}
+
+.last-pics {
+    width: 1350px;
+    margin-top: 210px;
+}
+
+.full-img {
+    position: absolute;
+    width: 900px;
+    height: 550px;
+    cursor: pointer;
+}
+
+.soups-txt {
+    position: absolute;
+    margin-left: 900px;
+    padding-left: 30px;
+    padding-top: 200px;
+    width: 420px;
+    height: 350px;
+    background-color: white;
+    font-weight: 450;
+}
+
+.ways-to {
+    position: absolute;
+    margin-left: 900px;
+    padding-left: 30px;
+    padding-top: 250px;
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 25px;
+}
+
+.full-img1 {
+    position: absolute;
+    margin-top: 600px;
+    width: 900px;
+    height: 550px;
+    cursor: pointer;
+}
+
+.the-december {
+    position: absolute;
+    margin-left: 900px;
+    margin-top: 600px;
+    padding-left: 30px;
+    padding-top: 200px;
+    width: 420px;
+    height: 350px;
+    background-color: white;
+    font-weight: 450;
+}
+
+.subscribe-to {
+    position: absolute;
+    margin-left: 900px;
+    margin-top: 600px;
+    padding-left: 30px;
+    padding-top: 250px;
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 25px;
+    width: 400px;
+}
+
+.ways-to:hover,
+.subscribe-to:hover {
+    text-decoration: underline;
+    text-decoration-color: red;
+}

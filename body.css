@@ -1,0 +1,362 @@
+.home-page {
+    background-color: rgb(246, 244, 244);
+    height: 10500px;
+    width: 1520px;
+}
+
+.big-image {
+    position: relative;
+    padding-right: 100px;
+    padding-left: 100px;
+    padding-top: 50px;
+    height: 450px;
+    width: 1350px;
+}
+
+.img-text {
+    position: absolute;
+    color: black;
+    margin-left: 120px;
+    margin-top: -120px;
+    width: 400px;
+    background-color: white;
+    font-size: 30px;
+    font-weight: 400;
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    cursor: pointer;
+}
+
+.img-text:hover {
+    text-decoration: underline;
+    border-bottom: 5px;
+    text-decoration-color: red;
+}
+
+.photo-position {
+    width: 1350px;
+    margin-left: 100px;
+}
+
+.photo-info {
+    display: flex;
+    align-items: center;
+    position: absolute;
+    margin-top: 400px;
+}
+
+.Essential-img {
+    position: relative;
+    margin-top: 30px;
+    margin-left: 00px;
+    margin-bottom: 0px;
+    height: 250px;
+    width: 300px;
+    cursor: pointer;
+}
+
+.tried-true {
+    position: relative;
+    font-size: 12px;
+    background-color: white;
+    width: 285px;
+    height: 100px;
+    margin-top: -700px;
+    margin-left: 00px;
+    font-weight: 450;
+    padding-top: 20px;
+    padding-left: 15px;
+}
+
+.second-essential {
+    position: relative;
+    width: 285px;
+    margin-left: -300px;
+    margin-top: -700px;
+    font-size: 17px;
+    font-weight: bold;
+    padding-top: 15px;
+    padding-left: 15px;
+    margin-right: 25px;
+    cursor: pointer;
+}
+
+.second-essential:hover {
+    text-decoration: underline;
+    text-decoration-color: red;
+    border-bottom: 40px;
+}
+
+.second-pic {
+    position: relative;
+    display: inline-block;
+    margin-top: 0px;
+    margin-left: 50px;
+    margin-bottom: 0px;
+    height: 250px;
+    width: 300px;
+    cursor: pointer;
+}
+
+.tried-true2 {
+    position: absolute;
+    font-size: 12px;
+    background-color: white;
+    width: 285px;
+    height: 100px;
+    margin-top: -3.62px;
+    margin-left: 354px;
+    font-weight: 450;
+    padding-top: 20px;
+    padding-left: 15px;
+}
+
+.second-essential2 {  
+    position: absolute;
+    width: 285px;
+    margin-left: 354px;
+    margin-top: 35px;
+    font-size: 17px;
+    font-weight: bold;
+    padding-top: 15px;
+    padding-left: 15px;
+    margin-right: 25px;
+    cursor: pointer;  
+}
+
+.second-essential2:hover {
+    text-decoration: underline;
+    text-decoration-color: red;
+}
+
+.third-pic {
+    position: absolute;
+    display: inline-block;
+    margin-top: -250px;
+    margin-left: 800px;
+    height: 250px;
+    width: 300px;
+    cursor: pointer;
+}
+
+.tried-true3 {
+    position: relative;
+    font-size: 12px;
+    background-color: white;
+    margin-left: 800px;
+    width: 285px;
+    height: 100px;
+    font-weight: 450;
+    padding-top: 20px;
+    padding-left: 15px;
+}
+
+.second-essential3 {  
+    position: absolute;
+    width: 285px;
+    margin-left: 800px;
+    margin-top: -90px;
+    font-size: 17px;
+    font-weight: bold;
+    padding-top: 15px;
+    padding-left: 15px;
+    margin-right: 25px;
+    cursor: pointer;  
+}
+
+.second-essential3:hover,
+.last-text:hover {
+    text-decoration: underline;
+    text-decoration-color: red;
+}
+
+.last-text1 {
+    position: absolute;
+    font-size: 17px;
+    width: 285px;
+    margin-left: 800px;
+    margin-top: -35px;
+    font-weight: bold;
+    cursor: pointer;
+    padding-left: 15px;
+}
+
+.white-block {
+    position: absolute;
+    height: 370px;
+    width: 300px;
+    background-color: white;
+    margin-left: 1150px;
+    margin-top: -370px;   
+}
+
+.schedule-red {
+    position: absolute;
+    background-color: #cc0000;
+    height: 20px;
+    width: 80px;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-weight: 500;
+    font-size: 16px;
+    color: white;
+    margin-left: 1150px;
+    margin-top: -370px;
+}
+
+.on-tonight {
+    position: absolute;
+    margin-left: 1170px;
+    margin-top: -335px;
+    font-size: 13px;
+    font-weight: 450;
+}
+
+.grocery-games {
+    position: absolute;
+    margin-left: 1170px;
+    margin-top: -310px;
+    font-size: 17px;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.pm-c {
+    position: absolute;
+    margin-left: 1170px;
+    margin-top: -290px;
+    font-weight: 200;
+}
+
+.see-full-schedule {
+    position: absolute;
+    margin-left: 1170px;
+    margin-top: -50px;
+    font-size: 17px;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.grocery-games:hover ,
+.see-full-schedule:hover {
+    text-decoration: underline;
+    text-decoration-color: red;
+}
+
+.stuffed-shells {
+    position: relative;
+    margin-left: 100px;
+    margin-top: 50px;
+    font-weight: 700;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 35px;
+}
+
+.row-para {
+    width: 1350px;
+    margin-left: 100px;
+}
+
+.row-img {
+    position: relative;
+    width: 300px;
+    height: 200px;
+    margin-left: 00px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.no-boil {    
+    position: absolute;
+    font-size: 20px;
+    font-weight: 450;
+    background-color: white;
+    padding-top: 20px;
+    padding-left: 15px;
+    width: 285px;
+    height: 60px;
+    margin-top: -10px;
+    margin-left: 0px;
+    cursor: pointer;
+}
+
+.row-img2 {
+    position: absolute;
+    width: 300px;
+    height: 200px;
+    margin-left: 345px;
+    margin-top: -204px;
+    cursor: pointer;
+}
+
+.chicken-alfredo {
+    position: absolute;
+    font-size: 20px;
+    background-color: white;
+    width: 285px;
+    height: 60px;
+    margin-top: -10px;
+    margin-left: 345px;
+    font-weight: 450;
+    padding-top: 20px;
+    padding-left: 15px;
+    cursor: pointer;
+}
+
+.row-img3 {
+    position: absolute;
+    width: 300px;
+    height: 200px;
+    margin-left: 690px;
+    margin-top: -204px;
+    cursor: pointer;
+}
+
+.balsamic-glazed {
+    position: absolute;
+    font-size: 20px;
+    background-color: white;
+    width: 285px;
+    height: 60px;
+    margin-top: -10px;
+    margin-left: 690px;
+    font-weight: 450;
+    padding-top: 20px;
+    padding-left: 15px;
+    cursor: pointer;
+}
+
+.row-img4 {
+    position: absolute;
+    width: 300px;
+    height: 200px;
+    margin-left: 1050px;
+    margin-top: -204px;
+    cursor: pointer;
+}
+
+.dry-brined {
+    position: absolute;
+    font-size: 20px;
+    background-color: white;
+    width: 285px;
+    height: 60px;
+    margin-top: -10px;
+    margin-left: 1050px;
+    font-weight: 450;
+    padding-top: 20px;
+    padding-left: 15px;
+    cursor: pointer;
+}
+
+.no-boil:hover,
+.chicken-alfredo:hover,
+.balsamic-glazed:hover,
+.dry-brined:hover {
+    text-decoration: underline;
+    text-decoration-color: red;
+}

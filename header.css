@@ -1,0 +1,319 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 100;
+    background-color: white;
+    height: 90px;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(232, 232, 232);
+}
+
+.left-section {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    width: 300px;
+    height: 40px;
+    margin-top: 30px;
+}
+
+.hamburger-menu {
+    display: flex;
+    position: relative;
+    align-items: center;
+    height: 30px;
+    margin-top: 0px;
+    margin-left: 90px;
+    cursor: pointer;
+}
+
+.web-logo {
+    display: flex;
+    position: relative;
+    align-items: center;
+    height: 50px;
+    border-radius: 25px;
+    margin-right: 90px;
+    cursor: pointer;
+}
+
+.middle-section {
+    flex: 1;
+    display: flex;
+    position: relative;
+    width: 800px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    flex: 1;
+}
+
+.Recipies-button {
+    position: relative;
+    width: 70px;
+    height: 30px;
+    margin-right: 20px;
+    background-color: rgb(255, 183, 0);
+    color: black;
+    padding-top: 10px;
+    padding-bottom: 25px;
+    border-radius: 10px;
+    border: 5;
+    border-color: black;
+    font-weight: bold;
+    transition: 5px;
+    cursor: pointer;
+    transition: opacity 0.15s;
+    border-style: solid;
+}
+
+.Recipies-button:hover {
+    opacity: 0.8;
+}
+
+.Recipies-button:active {
+    opacity: 1.5;
+}
+
+.Shows-button {
+    position: relative;
+    width: 70px;
+    height: 30px;
+    margin-right: 20px;
+    background-color: rgb(255, 183, 0);
+    color: black;
+    padding-top: 10px;
+    padding-bottom: 25px;
+    border-radius: 10px;
+    border: 5;
+    border-style: solid;
+    border-color: black;
+    font-weight: bold;
+    transition: 5px;
+    cursor: pointer;
+    transition: opacity 0.15s;
+}
+
+.Shows-button:hover {
+    opacity: 0.8;
+}
+
+.Shows-button:active {
+    opacity: 1.5;
+}
+
+.Chefs-button {
+    position: relative;
+    width: 70px;
+    height: 30px;
+    margin-right: 20px;
+    background-color: rgb(255, 183, 0);
+    color: black;
+    padding-top: 10px;
+    padding-bottom: 25px;
+    border-radius: 10px;
+    border: 5;
+    border-style: solid;
+    border-color: black;
+    font-weight: bold;
+    transition: 5px;
+    cursor: pointer;
+    transition: opacity 0.15s;
+}
+
+.Chefs-button:hover {
+    opacity: 0.8;
+}
+
+.Chefs-button:active {
+    opacity: 1.5;
+}
+
+.Trending-button {
+    position: relative;
+    width: 70px;
+    height: 30px;
+    margin-right: 20px;
+    background-color: rgb(255, 183, 0);
+    color: black;
+    padding-top: 10px;
+    padding-bottom: 25px;
+    border-radius: 10px;
+    border: 5;
+    border-color: black;
+    font-weight: bold;
+    border-style: solid;
+    transition: 5px;
+    cursor: pointer;
+    transition: opacity 0.15s;
+}
+
+.Trending-button:hover {
+    opacity: 0.8;
+}
+
+.Trending-button:active {
+    opacity: 1.5;
+}
+
+.Shop-button {
+    position: relative;
+    width: 70px;
+    height: 30px;
+    margin-right: 20px;
+    background-color: rgb(255, 183, 0);
+    color: black;
+    padding-top: 10px;
+    padding-bottom: 25px;
+    border-radius: 10px;
+    border: 5;
+    border-color: black;
+    font-weight: bold;
+    transition: 5px;
+    cursor: pointer;
+    transition: opacity 0.15s;
+    border-style: solid;
+}
+
+.Shop-button:hover {
+    opacity: 0.8;
+}
+
+.Shop-button:active {
+    opacity: 1.5;
+}
+
+.Sweepstakes-button {
+    position: relative;
+    width: 100px;
+    height: 30px;
+    margin-right: 20px;
+    background-color: rgb(255, 183, 0);
+    color: black;
+    padding-top: 10px;
+    padding-bottom: 25px;
+    border-radius: 10px;
+    border: 5;
+    border-style: solid;
+    border-color: black;
+    font-weight: bold;
+    transition: 5px;
+    cursor: pointer;
+    transition: opacity 0.15s;
+}
+
+.Sweepstakes-button:hover {
+    opacity: 0.8;
+}
+
+.Sweepstakes-button:active {
+    opacity: 1.5;
+}
+
+.TV-button {
+    position: relative;
+    width: 100px;
+    height: 30px;
+    margin-right: 20px;
+    background-color: rgb(255, 183, 0);
+    color: black;
+    padding-top: 10px;
+    padding-bottom: 25px;
+    border-radius: 10px;
+    border: 1;
+    border-style: solid;
+    border-color: black;
+    font-weight: bold;
+    transition: 5px;
+    cursor: pointer;
+    transition: opacity 0.15s;
+}
+
+.TV-button:hover {
+    opacity: 0.8;
+}
+
+.TV-button:active {
+    opacity: 1.5;
+}
+
+.right-section {
+    flex-shrink: 0;
+    display: flex;
+    position: relative;
+    align-items: center;
+    width: 400px;
+    height: 100px;
+}
+
+.search-bar {
+    flex-shrink: 0;
+    position: relative;
+    height: 37px;
+    border: 1px solid rgb(255, 183, 0);
+    border-width: 1px;
+    border-style: solid;
+    box-shadow: inset 1px 2px 3px rgba(0, 0, 0, 0.05);
+    flex: 1;
+    font-size: 15px;
+    padding-left: 10px;
+}
+
+.search-icon {
+    position: relative;
+    height: 27px;
+    border-color: rgb(255, 183, 0);
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+.search-button {
+    position: relative;
+    height: 41px;
+    border-color: rgb(255, 183, 0);
+    background-color: white;
+    margin-left: -1px;
+    margin-right: 10px;
+    border-width: 1px;
+    border-style: solid;
+    cursor: pointer;
+    transition: 1px;
+    opacity: 0.15s;
+}
+
+.search-button::placeholder {
+    font-size: 15px;
+}
+
+.search-button:hover {
+    background-color: rgb(255, 183, 0)
+}
+
+.search-button:active {
+    background-color: white;
+}
+
+.bookmark-button {
+    height: 40px;
+    cursor: pointer;
+}
+
+.mall-button {
+    height: 40px;
+    cursor: pointer;
+}
+
+.smile-button {
+    height: 40px;
+    cursor: pointer;
+}
